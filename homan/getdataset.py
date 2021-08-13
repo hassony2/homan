@@ -3,7 +3,6 @@
 from homan.datasets.core50 import Core50
 from homan.datasets.epic import Epic
 from homan.datasets.ho3d import HO3D
-from homan.datasets.ho3dabl import HO3DAbl
 
 
 def get_dataset(
@@ -19,19 +18,6 @@ def get_dataset(
         image_size = 640
         dataset = HO3D(
             split=split,
-            frame_nb=frame_nb,
-            box_mode=box_mode,
-            load_img=load_img,
-            # mode="vid",
-            mode="chunk",
-            chunk_step=chunk_step,
-            use_cache=use_cache)
-    elif "ho3dabl" in dataset:
-        image_size = 640
-        dataset = HO3DAbl(
-            split="test",
-            obj_idx=int(dataset[-2:]),
-            sequences=["AP10", "AP11", "AP12", "AP13", "AP14"],
             frame_nb=frame_nb,
             box_mode=box_mode,
             load_img=load_img,

@@ -41,7 +41,7 @@ def get_args():
                         choices=[
                             "contactpose", "ho3d", "fhb", "epic", "core50",
                             "inhandycb", "ourycb"
-                        ] + [f"ho3dabl{idx:02d}" for idx in range(18)],
+                        ],
                         help="Dataset name")
     parser.add_argument("--chunk_step",
                         default=4,
