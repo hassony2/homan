@@ -1,0 +1,48 @@
+syntax = "proto3";
+package model.detections;
+
+message FloatVector {
+    float x = 1;
+    float y = 2;
+}
+
+message BBox {
+    float left = 1;
+    float top = 2;
+    float right = 3;
+    float bottom = 4;
+}
+
+message HandDetection {
+    enum HandState {
+        NO_CONTACT = 0;
+        SELF_CONTACT = 1;
+        ANOTHER_PERSON = 2;
+        PORTABLE_OBJECT = 3;
+        STATIONARY_OBJECT = 4;
+    }
+
+    enum HandSide {
+        LEFT = 0;
+        RIGHT = 1;
+    }
+
+    BBox bbox = 1;
+    float score = 2;
+    HandState state = 3;
+    FloatVector object_offset = 4;
+    HandSide side = 5;
+}
+
+message ObjectDetection {
+    BBox bbox = 1;
+    float score = 2;
+}
+
+message Detections {
+    string video_id = 1;
+    int32 frame_number = 2;
+    repeated HandDetection hands = 3;
+    repeated ObjectDetection objects = 4;
+}
+

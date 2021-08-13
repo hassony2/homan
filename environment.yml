@@ -1,0 +1,37 @@
+name: phosa16_env
+channels:
+  - pytorch
+  - pytorch3d
+  - menpo
+  - defaults
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - opencv
+  - pandas
+  - pillow
+  - python=3.7
+  - pytorch==1.6.0
+  - pytorch3d
+  - cudatoolkit=10.1
+  - scipy
+  - trimesh
+  - tqdm
+  - pip
+  - pip:
+    - easydict
+    - git+https://github.com/hassony2/chumpy.git
+    - git+https://github.com/hassony2/MANO.git
+    - git+https://github.com/hassony2/manopth.git@return_centerjoint
+    - git+https://github.com/hassony2/libyana.git
+    - ipdb
+    - loguru
+    - motpy
+    - moviepy
+    - opencv-python
+    - PyYAML==5.1
+    - scikit-image
+    - smplx
+    - transforms3d
+    - trimesh
