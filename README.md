@@ -1,6 +1,8 @@
 
 # Towards uncontrained hand-object reconstruction from RGB videos
 
+![in_img](5900_in.gif)
+
 Yana Hasson, Gül Varol, Ivan Laptev and Cordelia Schmid
 
 - [Project page](https://hassony2.github.io/homan.html)
