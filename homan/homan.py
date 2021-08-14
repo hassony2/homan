@@ -349,8 +349,6 @@ class HOMan(nn.Module):
                     rot=mano_rot,
                     betas=self.mano_betas[hand_idx::self.hand_nb],
                     side=side)
-                print(self.mano_betas)
-                print(self.int_scales_hand)
                 vertices = mano_res["verts"]
                 all_hand_verts.append(vertices)
             all_hand_verts = torch.stack(all_hand_verts).transpose(
