@@ -24,8 +24,7 @@ Yana Hasson, Gül Varol, Ivan Laptev and Cordelia Schmid
 
 # Demo
 
-[Run it in google colab](TODOpathtocolab)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xAa61ZD1Ji_d6oKEQSOyR_DVAYxo-W4C?usp=sharing)
 
 # Setup
 
