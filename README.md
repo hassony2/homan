@@ -2,6 +2,7 @@
 # Towards uncontrained hand-object reconstruction from RGB videos
 
 ![in_img](5900_in.gif)
+![out_img](5900_cam.gif)
 
 Yana Hasson, Gül Varol, Ivan Laptev and Cordelia Schmid
 
