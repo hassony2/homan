@@ -1,0 +1,10 @@
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/bfe7d0102dcd0deff43af5716b936459
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/f2279b29f7d45bbd744c199e33849f2a
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/3ae3a9b74f96fef28fe15648f042f0d9
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/1b64b36bf7ddae3d7ad11050da24bb12
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/f2279b29f7d45bbd744c199e33849f2a
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/8cd9b10f611ac28e866a1445c8fba9da
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/a34966853ab2272ab2047d3072d5e051
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/d74bc917899133e080c257afea181fa2
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/abe557fa1b9d59489c81f0389df0e98a
+/gpfswork/rech/tan/usk19gv/code/pose_3d/phosa/local_data/datasets/ShapeNetCore.v2/02876657/b31ca446cb3e88dda88e473ddd1152a6

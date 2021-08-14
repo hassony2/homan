@@ -23,6 +23,5 @@ tmp*
 results/
 **__pycache**
 *@neomake*
-local_data/
 dex-ycb-toolkit/
 sample_data
