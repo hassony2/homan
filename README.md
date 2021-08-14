@@ -258,6 +258,22 @@ Consider citing their work !
 }
 ```
 
+## Funding
+
+This work was funded in part by the MSR-Inria joint lab, the French government
+under management of Agence Nationale de la Recherche as
+part of the ”Investissements d’avenir” program, reference
+ANR19-P3IA-0001 (PRAIRIE 3IA Institute) and by Louis
+Vuitton ENS Chair on Artificial Intelligence.
+
+## Other references
+
+If you find this work interesting, you will certainly be also interested in the following publication:
+- [Reconstructing Hand-Object Interactions in the Wild](https://people.eecs.berkeley.edu/~zhecao/rhoi/), [Cao](https://people.eecs.berkeley.edu/~zhecao/) et al, ICCV 2021
+
+To keep track of recent publications take a look at [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation/) by 
+Xinghao Chen.
+
 ## License
 
 Note that our code depends on other libraries,
