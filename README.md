@@ -3,6 +3,7 @@
 
 ![in_img](5900_in.gif)
 ![out_img](5900_cam.gif)
+![out_img2](0011.gif)
 
 Yana Hasson, Gül Varol, Ivan Laptev and Cordelia Schmid
 
