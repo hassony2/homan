@@ -27,7 +27,7 @@ dependencies:
     - git+https://github.com/hassony2/libyana.git
     - ipdb
     - loguru
-    - motpy
+    - motpy==0.0.9
     - moviepy
     - opencv-python
     - PyYAML==5.1
